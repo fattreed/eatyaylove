@@ -23,4 +23,4 @@ struct Eatyaylove: Website {
     var imagePath: Path? { "images/*.png" }
 }
 
-try Eatyaylove().publish(withTheme: .eatYayLove)
+try Eatyaylove().publish(withTheme: .eatYayLove, deployedUsing: .gitHub("fattreed/fattreed.github.io", useSSH: true))
