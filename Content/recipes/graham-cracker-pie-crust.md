@@ -2,9 +2,13 @@
 date: 2021-11-28 14:00
 description: Put the store bought crust down and back away slowly. Thank you.
 tags: pie, crust, dessert, food
+imageUrl: /images/SweetPotatoPieThumbnail.png
+imageDesc: Pie Crust
 ---
 
 # Graham Cracker Pie Crust
+
+Recipe by [matty](/about)
 
 ## Ingredients
 

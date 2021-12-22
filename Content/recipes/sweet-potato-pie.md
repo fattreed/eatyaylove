@@ -2,8 +2,13 @@
 date: 2021-11-28 15:00
 description: In my not so humble opinion this is the perfect sweet potato pie. Show up your grandma this holiday season!
 tags: pie, sweet potato, dessert, food
+imageUrl: /images/SweetPotatoPieThumbnail.png
+imageDesc: Sweet Potato Pie
 ---
+
 # Sweet Potato Pie
+
+Recipe by [matty](/about)
 
 In my not so humble opinion this is the perfect sweet potato pie. Show up your grandma this holiday season! I believe the secret to this pie is going way heavy on the spices. I'm talking fresh ginger, fresh nutmeg, cardamom, all spice and of course cinnamon.
 
@@ -38,4 +43,3 @@ In my not so humble opinion this is the perfect sweet potato pie. Show up your g
 7. Give it a taste and then add the eggs
 8. Preheat oven to 350 degrees and bake for 55 mins
 9. Let cool and serve or move to fridge
-
