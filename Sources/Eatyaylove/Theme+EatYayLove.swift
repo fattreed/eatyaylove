@@ -94,11 +94,9 @@ extension Theme where Site == Eatyaylove {
                                     Paragraph(steps)
                                 }
                             }
-                            Div().id("disqus_thread")
                         }
                         .class("container")
                         EatYayLoveFooter()
-                        Node<Eatyaylove>.script(.src("/disqus.js"))
                     }
                 )
             )
